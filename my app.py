@@ -1,6 +1,6 @@
 import streamlit as st
 st.set_page_config(page_title='Cats')
-st.header("Types of Cats")
+st.header("kings of Ap")
 
 col1, col2 = st.columns(2)
 with col1:
